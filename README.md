@@ -2,7 +2,9 @@
 
 ### How to run this project locally - 
 
-1. First, run the development server:
+1. First clone the repo and run ```npm i``` to install all the dependencies.
+
+2. First, run the development server:
 
 ```bash
 npm run dev
@@ -14,7 +16,6 @@ pnpm dev
 bun dev
 ```
 
-2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
